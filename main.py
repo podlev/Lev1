@@ -5,3 +5,4 @@ surname = input()
 print('Привет', name, surname)
 
 
+аывавыа
